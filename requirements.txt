@@ -1,0 +1,7 @@
+py-clob-client==0.34.6
+websockets>=12.0
+httpx>=0.25
+python-dotenv>=1.0
+web3>=6.0
+eth-account>=0.10
+websockets-proxy>=0.1.3
